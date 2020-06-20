@@ -130,3 +130,4 @@ dmypy.json
 
 # data
 data/
+saved_models/finetuned_wide_resnet50_2_caltechCBE2.pt # too big!
